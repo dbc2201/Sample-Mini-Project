@@ -15,4 +15,11 @@
 
 ___  
 
+#### THE PROBLEM STATEMENT
 
+```
+A problem statement is a concise description of an issue to be addressed or a condition to be improved upon.
+It identifies the gap between the current (problem) state and desired (goal) state of a process or product.
+Focusing on the facts, the problem statement should be designed to address the Five Ws.
+The first condition of solving a problem is understanding the problem, which can be done by way of a problem statement.
+```
