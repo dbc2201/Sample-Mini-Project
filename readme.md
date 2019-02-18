@@ -23,3 +23,85 @@ It identifies the gap between the current (problem) state and desired (goal) sta
 Focusing on the facts, the problem statement should be designed to address the Five Ws.
 The first condition of solving a problem is understanding the problem, which can be done by way of a problem statement.
 ```
+
+___
+
+#### REASON FOR SELECTING THE TOPIC
+
+```
+ 
+```
+
+___
+
+#### OBJECTIVES OF THE PROJECT
+
+```
+
+```
+
+___
+
+#### LITERATURE SURVEY / FEASIBILITY STUDY
+
+```
+
+```
+
+___  
+
+#### FUTURE SCOPE
+
+```
+
+```
+
+___  
+
+#### METHODOLOGY
+
+```
+
+```
+
+___  
+
+#### HARDWARE & SOFTWARE TO BE USED FOR DEVELOPMENT
+
+```
+
+```
+
+___  
+
+#### TESTING TECHNOLOGIES TO BE USED  
+
+```
+
+```
+
+___  
+
+#### WHAT CONTRIBUTION WOULD THE PROJECT MAKE AND WHERE?
+
+```
+
+```
+
+___
+
+#### SCOPE FOR EXTENSION INTO A MAJOR PROJECT
+
+```
+
+```
+
+___
+
+#### CONCLUSION
+
+```
+
+```
+
+___  
